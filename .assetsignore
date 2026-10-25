@@ -1,0 +1,12 @@
+.git
+.gitignore
+.wrangler
+.env
+.env.example
+node_modules
+backend
+tools
+README.md
+wrangler.jsonc
+.assetsignore
+_redirects
